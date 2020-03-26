@@ -11,7 +11,7 @@ pygame.init()
 # Define some colors
 BLACK = (0, 0, 0)
 WHITE = (255, 255, 255)
-BLUE = (100, 150, 255)
+BLUE = (0, 127, 245)
 RED = (255, 0, 0)
 
 # Default screen size
